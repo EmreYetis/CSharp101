@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\bin\Debug\net6.0\Tipdonusumleri.exe
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\bin\Debug\net6.0\Tipdonusumleri.deps.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\bin\Debug\net6.0\Tipdonusumleri.runtimeconfig.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\bin\Debug\net6.0\Tipdonusumleri.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\bin\Debug\net6.0\Tipdonusumleri.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\refint\Tipdonusumleri.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\Tipdonusumleri.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Tipdonusumleri\Tipdonusumleri\obj\Debug\net6.0\ref\Tipdonusumleri.dll
