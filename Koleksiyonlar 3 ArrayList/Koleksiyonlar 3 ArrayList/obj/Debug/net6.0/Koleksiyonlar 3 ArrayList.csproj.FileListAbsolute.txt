@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\bin\Debug\net6.0\Koleksiyonlar 3 ArrayList.exe
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\bin\Debug\net6.0\Koleksiyonlar 3 ArrayList.deps.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\bin\Debug\net6.0\Koleksiyonlar 3 ArrayList.runtimeconfig.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\bin\Debug\net6.0\Koleksiyonlar 3 ArrayList.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\bin\Debug\net6.0\Koleksiyonlar 3 ArrayList.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\refint\Koleksiyonlar 3 ArrayList.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\Koleksiyonlar 3 ArrayList.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 3 ArrayList\Koleksiyonlar 3 ArrayList\obj\Debug\net6.0\ref\Koleksiyonlar 3 ArrayList.dll
