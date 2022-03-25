@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\bin\Debug\net6.0\ÖDEV1.exe
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\bin\Debug\net6.0\ÖDEV1.deps.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\bin\Debug\net6.0\ÖDEV1.runtimeconfig.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\bin\Debug\net6.0\ÖDEV1.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\bin\Debug\net6.0\ÖDEV1.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\refint\ÖDEV1.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ÖDEV1.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\ÖDEV1\ÖDEV1\obj\Debug\net6.0\ref\ÖDEV1.dll
