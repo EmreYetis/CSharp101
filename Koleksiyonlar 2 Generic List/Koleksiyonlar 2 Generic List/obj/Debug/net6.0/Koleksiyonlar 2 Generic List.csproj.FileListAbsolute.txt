@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\bin\Debug\net6.0\Koleksiyonlar 2 Generic List.exe
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\bin\Debug\net6.0\Koleksiyonlar 2 Generic List.deps.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\bin\Debug\net6.0\Koleksiyonlar 2 Generic List.runtimeconfig.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\bin\Debug\net6.0\Koleksiyonlar 2 Generic List.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\bin\Debug\net6.0\Koleksiyonlar 2 Generic List.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\refint\Koleksiyonlar 2 Generic List.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\Koleksiyonlar 2 Generic List.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 2 Generic List\Koleksiyonlar 2 Generic List\obj\Debug\net6.0\ref\Koleksiyonlar 2 Generic List.dll
