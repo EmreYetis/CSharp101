@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\bin\Debug\net6.0\metotlar_overloading.exe
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\bin\Debug\net6.0\metotlar_overloading.deps.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\bin\Debug\net6.0\metotlar_overloading.runtimeconfig.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\bin\Debug\net6.0\metotlar_overloading.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\bin\Debug\net6.0\metotlar_overloading.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\refint\metotlar_overloading.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\metotlar_overloading.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\metotlar_overloading\metotlar_overloading\obj\Debug\net6.0\ref\metotlar_overloading.dll
