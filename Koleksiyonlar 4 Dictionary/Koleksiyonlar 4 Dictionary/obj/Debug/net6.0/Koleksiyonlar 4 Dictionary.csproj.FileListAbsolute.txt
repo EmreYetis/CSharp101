@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\bin\Debug\net6.0\Koleksiyonlar 4 Dictionary.exe
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\bin\Debug\net6.0\Koleksiyonlar 4 Dictionary.deps.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\bin\Debug\net6.0\Koleksiyonlar 4 Dictionary.runtimeconfig.json
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\bin\Debug\net6.0\Koleksiyonlar 4 Dictionary.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\bin\Debug\net6.0\Koleksiyonlar 4 Dictionary.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\refint\Koleksiyonlar 4 Dictionary.dll
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.pdb
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\Koleksiyonlar 4 Dictionary.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Desktop\UNİTY\C#101\Koleksiyonlar 4 Dictionary\Koleksiyonlar 4 Dictionary\obj\Debug\net6.0\ref\Koleksiyonlar 4 Dictionary.dll
