@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sinif_Kavrami_4_Static_sinif_ve_üyeler/1.0.0": {
+        "runtime": {
+          "Sinif_Kavrami_4_Static_sinif_ve_üyeler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinif_Kavrami_4_Static_sinif_ve_üyeler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
