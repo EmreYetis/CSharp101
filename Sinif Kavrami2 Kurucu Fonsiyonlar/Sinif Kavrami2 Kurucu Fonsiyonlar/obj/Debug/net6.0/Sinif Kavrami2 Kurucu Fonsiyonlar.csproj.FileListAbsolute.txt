@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\bin\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.exe
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\bin\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.deps.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\bin\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.runtimeconfig.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\bin\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\bin\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\refint\Sinif Kavrami2 Kurucu Fonsiyonlar.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\Sinif Kavrami2 Kurucu Fonsiyonlar.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif Kavrami2 Kurucu Fonsiyonlar\Sinif Kavrami2 Kurucu Fonsiyonlar\obj\Debug\net6.0\ref\Sinif Kavrami2 Kurucu Fonsiyonlar.dll
