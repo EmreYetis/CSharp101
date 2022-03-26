@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\bin\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.exe
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\bin\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.deps.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\bin\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.runtimeconfig.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\bin\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\bin\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\refint\Sinif_Kavrami5_Struct_Yapilar.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\Sinif_Kavrami5_Struct_Yapilar.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Sinif_Kavrami5_Struct_Yapilar\Sinif_Kavrami5_Struct_Yapilar\obj\Debug\net6.0\ref\Sinif_Kavrami5_Struct_Yapilar.dll
