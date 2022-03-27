@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\bin\Debug\net6.0\Interface_Ornek.exe
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\bin\Debug\net6.0\Interface_Ornek.deps.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\bin\Debug\net6.0\Interface_Ornek.runtimeconfig.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\bin\Debug\net6.0\Interface_Ornek.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\bin\Debug\net6.0\Interface_Ornek.pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\refint\Interface_Ornek.dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\Interface_Ornek.genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Interface_Ornek\Interface_Ornek\obj\Debug\net6.0\ref\Interface_Ornek.dll
