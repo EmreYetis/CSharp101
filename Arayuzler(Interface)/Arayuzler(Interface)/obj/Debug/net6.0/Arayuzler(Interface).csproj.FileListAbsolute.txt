@@ -1,0 +1,15 @@
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\bin\Debug\net6.0\Arayuzler(Interface).exe
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\bin\Debug\net6.0\Arayuzler(Interface).deps.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\bin\Debug\net6.0\Arayuzler(Interface).runtimeconfig.json
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\bin\Debug\net6.0\Arayuzler(Interface).dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\bin\Debug\net6.0\Arayuzler(Interface).pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).csproj.AssemblyReference.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).AssemblyInfoInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).AssemblyInfo.cs
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).csproj.CoreCompileInputs.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\refint\Arayuzler(Interface).dll
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).pdb
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\Arayuzler(Interface).genruntimeconfig.cache
+C:\Users\Emre YETİŞ\Documents\GitHub\CSharp101\Arayuzler(Interface)\Arayuzler(Interface)\obj\Debug\net6.0\ref\Arayuzler(Interface).dll
