@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Telefon Rehberi Uygulamasi", "Console Telefon Rehberi Uygulamasi\Console Telefon Rehberi Uygulamasi.csproj", "{4854F758-2B0D-4206-8846-5E0D80F9F352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4854F758-2B0D-4206-8846-5E0D80F9F352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4854F758-2B0D-4206-8846-5E0D80F9F352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4854F758-2B0D-4206-8846-5E0D80F9F352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4854F758-2B0D-4206-8846-5E0D80F9F352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE0AC86-AFBB-4443-BBE0-D511747DEDC7}
+	EndGlobalSection
+EndGlobal
